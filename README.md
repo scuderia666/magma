@@ -1,0 +1,2 @@
+# magma
+gtk theme
